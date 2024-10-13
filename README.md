@@ -14,3 +14,21 @@ Ejemplo de como desarrollar con ADB una aplicacion, usando PL/SQL en la propia b
 
 In this workshop, you will learn how to use large language models (LLMs)and natural language to analyze your organization's private data in Autonomous Database. Those LLMs may be hosted by OCI Generative AI, Google Gemini, Azure OpenAI or OpenAI. Your AI projects will be published as RESTful services that can then be invoked from any application. You will use a React app to surface these analytics.
 
+#### AI Agents
+
+Unlock Your Enterprise Knowledge: Building Your First Oracle GenAI RAG Agent
+
+https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=4006&p210_wec=&session=7523664133710
+
+Crear un agente en OCI a partir de documentos TXT
+In this workshop you will learn how to harness the power of conversational Generative AI to unlock the information hidden in your documents. We will show you how the OCI Generative AI Agents service can be easily used to have a conversation with your data.
+-- como crear el dynamic group y policies necesarias para poder acceder a GenAI
+
+### Internal - Sales Accelerator
+
+#### OCI Generative AI
+
+https://securesites-prodapp.cec.ocp.oraclecloud.com/sa/collectionDetails/CORE81F244F15C8F4972AAB0F6DFF48DC2FB
+
+- Prompts para ejemplos con oci generative ai
+- 
