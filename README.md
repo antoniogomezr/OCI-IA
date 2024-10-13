@@ -4,6 +4,19 @@
 
 https://www.oracle.com/es/artificial-intelligence/solutions/#inference
 
+### BLOGS ADB
+
+RAG con ADB. Embeber documentos, con modelos importado o externo (GEN AI) y hacer preguntas. 
+Announcing Select AI with Retrieval Augmented Generation (RAG) on Autonomous Database
+https://blogs.oracle.com/database/post/announcing-select-ai-with-rag-on-adb
+
+![Select AI RAG-build vector store](https://github.com/user-attachments/assets/175a8acc-80a3-408c-b65a-0a7e5ba6a146)
+
+![Select AI RAG-process](https://github.com/user-attachments/assets/289c6526-aa48-4ffb-9256-6e7042d37c83)
+
+
+
+
 ### Live Labs
 
 #### Develop apps using GenAI, Autonomous Database and React
