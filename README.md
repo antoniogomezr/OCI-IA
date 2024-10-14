@@ -88,7 +88,6 @@ https://securesites-prodapp.cec.ocp.oraclecloud.com/sa/collectionDetails/CORE81F
 https://mysites.oracle.com/OCI-AI-Enablement/
 
 
-
 - Prompts para ejemplos con oci generative ai
  
 https://otube.oracle.com/playlist/dedicated/1_idlbcbil/1_v26qtvmw
