@@ -11,6 +11,14 @@ Nacho Martinez
 Learn about Training Large Language Models in Oracle Cloud Infrastructure
 https://www.youtube.com/watch?v=Zj4GGbrEekQ
 
+Webinar: How to train LLMs on Your Own Data
+https://www.youtube.com/watch?v=5FYmnp6f-pQ
+https://github.com/oracle-devrel/technology-engineering/tree/main/ai-and-app-modernisation/ai-services
+https://github.com/oracle-devrel/oci-genai-finetuning
+https://cohere.com/llmu?_gl=1*rvqk7l*_gcl_au*MjA5Mzc1ODAzMC4xNzIzMTE1Mjk5*_ga*MTM0MjUzMTkwLjE2OTU3NTA5NTY.*_ga_CRGS116RZS*MTcyODYyNjc4NS4yMy4wLjE3Mjg2MjY3ODUuNjAuMC4w
+https://docs.cohere.com/docs/llmu-2
+
+
 ## Blog de fine tuning
 Generating documents through LLMs: A hands-on guide to model fine-tuning
 https://medium.com/@arunabh223/generating-documents-through-llms-a-hands-on-guide-to-model-fine-tuning-5e3031b72ce2
