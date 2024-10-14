@@ -4,6 +4,7 @@
 
 https://www.oracle.com/es/artificial-intelligence/solutions/#inference
 
+
 ### BLOGS ADB
 
 RAG con ADB. Embeber documentos, con modelos importado o externo (GEN AI) y hacer preguntas. 
@@ -83,6 +84,10 @@ In this workshop you will learn how to harness the power of conversational Gener
  
 #### OCI Generative AI
 https://securesites-prodapp.cec.ocp.oraclecloud.com/sa/collectionDetails/CORE81F244F15C8F4972AAB0F6DFF48DC2FB
+
+https://mysites.oracle.com/OCI-AI-Enablement/
+
+
 
 - Prompts para ejemplos con oci generative ai
  
