@@ -7,6 +7,10 @@ https://www.index.dev/blog/comparing-top-llm-models-bert-mpt-hugging-face-and-mo
 
 https://medium.com/@srinipotnuru/learn-how-to-fine-tune-a-llama-3-1-with-your-own-custom-data-ead7be969518
 
+Nacho Martinez
+Learn about Training Large Language Models in Oracle Cloud Infrastructure
+https://www.youtube.com/watch?v=Zj4GGbrEekQ
+
 ## Blog de fine tuning
 Generating documents through LLMs: A hands-on guide to model fine-tuning
 https://medium.com/@arunabh223/generating-documents-through-llms-a-hands-on-guide-to-model-fine-tuning-5e3031b72ce2
